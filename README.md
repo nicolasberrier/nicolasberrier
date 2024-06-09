@@ -10,11 +10,7 @@
 </div>
 <br/>
 
-<div align="center">
-  <a href="https://media1.tenor.com/m/T3HjSZeb_MQAAAAC/hello-there-general-kenobi.gif">
-  <img align="center" src="tenor.gif" alt="gif from tenor"/>
-  </a>
-</div>
+
 
 
 <br />
