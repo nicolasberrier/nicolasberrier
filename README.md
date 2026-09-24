@@ -34,12 +34,12 @@
 <table>
   <tr>
     <td align="center" width="350">
-      <a href="https://wallmonger.github.io/WYSIWYG/">
+      <a href="https://nicolasberrier.github.io/WYSIWYG/">
         <img src="wysiwyg.gif" />
       </a> <br>
     </td>
     <td align="center" width="350">
-      <a href="https://wallmonger.github.io/MorpionFighter/">
+      <a href="https://nicolasberrier.github.io/MorpionFighter/">
         <img src="street.gif" />
       </a> <br>
     </td>
@@ -69,15 +69,15 @@
 <!-- STATS START ############################################################################### -->
 <table align="center">
   <tr>
-    <td><img height="200" src="https://streak-stats.demolab.com?user=Wallmonger&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" /></td>
-    <td><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=wallmonger&langs_count=8&layout=compact&theme=github_dark_dimmed" /></td>
+    <td><img height="200" src="https://streak-stats.demolab.com?user=nicolasberrier&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" /></td>
+    <td><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasberrier&langs_count=8&layout=compact&theme=github_dark_dimmed" /></td>
   </tr>
 </table>
 <br>
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wallmonger&bg_color=24292F&color=6CA3F6&title_color=6CA3F6&line=6CA3F6&point=6CA3F6&area_color=6CA3F6&area=true&hide_title=true&height=320&radius=6"/> 
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolasberrier&bg_color=24292F&color=6CA3F6&title_color=6CA3F6&line=6CA3F6&point=6CA3F6&area_color=6CA3F6&area=true&hide_title=true&height=320&radius=6"/> 
     </td>
   </tr>
 </table>
