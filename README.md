@@ -77,7 +77,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolasberrier&bg_color=24292F&color=6CA3F6&title_color=6CA3F6&line=6CA3F6&point=6CA3F6&area_color=6CA3F6&area=true&hide_title=true&height=320&radius=6"/> 
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolasberrier&theme=react-dark&area=true&hide_title=true&height=320&radius=6"/> 
     </td>
   </tr>
 </table>
