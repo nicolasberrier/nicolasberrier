@@ -67,7 +67,7 @@
 <h1><hr></h1> <br>
 
 <!-- STATS START ############################################################################### -->
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td><img height="200" src="https://streak-stats.demolab.com?user=nicolasberrier&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" /></td>
     <td><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasberrier&langs_count=8&layout=compact&theme=github_dark_dimmed" /></td>
@@ -80,7 +80,7 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolasberrier&theme=react-dark&area=true&hide_title=true&height=320&radius=6"/> 
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
